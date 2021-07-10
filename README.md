@@ -1,2 +1,2 @@
-# cmake
+# Cmake
 Professional Cmake Tuts
