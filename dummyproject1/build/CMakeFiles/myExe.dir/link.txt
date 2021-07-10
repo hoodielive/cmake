@@ -1,0 +1,1 @@
+/usr/bin/c++    -L/usr/local/opt/llvm@6/lib -rdynamic CMakeFiles/myExe.dir/main.cpp.o  -o myExe 
